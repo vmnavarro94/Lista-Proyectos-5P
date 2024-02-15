@@ -8,4 +8,4 @@ Lista de Proyectos 5P
 - Francisco Herrera - 22110123 - Pokedex
 - Angel Emanuel Mendoza Reyes - 22110083 - Pokedex
 - Héctor Isaí Vargas de la Torre - 22110054 - Listado de peliculas
-- Francisco Neri - 22110103 - My Anime List
+- Francisco Neri - 22110103 - My Anime List- Francisco Neri - 22110103 - My Anime List
