@@ -7,4 +7,5 @@ Lista de Proyectos 5P
 - Galilea Naomi Martinez Torres - 22110055 - My movie list 
 - Francisco Herrera - 22110123 - Pokedex
 - Angel Emanuel Mendoza Reyes - 22110083 - Pokedex
+- Noé Francisco Ibarra Hernández - 22110059 - Listado de películas
 - Jesus Alejandro Lopez Rosales - 22110104 - Punto de venta
