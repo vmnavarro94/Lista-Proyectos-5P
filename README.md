@@ -8,3 +8,4 @@ Lista de Proyectos 5P
 - Francisco Herrera - 22110123 - Pokedex
 - Angel Emanuel Mendoza Reyes - 22110083 - Pokedex
 - Noé Francisco Ibarra Hernández - 22110059 - Listado de películas
+- Ramirez Pulido Yahir Emmanuel- -22110137  -lista de peliculas-
