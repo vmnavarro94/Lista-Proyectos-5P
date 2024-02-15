@@ -7,7 +7,7 @@ Lista de Proyectos 5P
 - Galilea Naomi Martinez Torres - 22110055 - My movie list 
 - Francisco Herrera - 22110123 - Pokedex
 <<<<<<< Updated upstream
-- Cristopher Emanuel Campos Cerda - 22110099 - Peliculas
+- Cristopher Emanuel Campos Cerda - 22110099 - Pokedex
 =======
 =======
 - Angel Emanuel Mendoza Reyes - 22110083 - Pokedex
