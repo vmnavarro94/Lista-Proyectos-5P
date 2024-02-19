@@ -12,4 +12,5 @@ Lista de Proyectos 5P
 - Ramirez Pulido Yahir Emmanuel- -22110137  -lista de peliculas-
 - Jesus Alejandro Lopez Rosales - 22110104 - Punto de venta
 - Guillermo Ávila - 22110067 - MyPlaylist
+- Miguel Angel Ventura Sanchez - 22110120 - Lista de peliculas
 - Cristopher Emanuel Campos Cerda - Pokedex
