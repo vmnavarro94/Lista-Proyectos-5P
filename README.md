@@ -30,4 +30,5 @@ Lista de Proyectos 5P
 - Cristopher Emanuel Campos Cerda - Pokedex
 - José Manuel Calam Manzanilla - 22110064 - Listado de albumes 
 - Pedro Yazael Mercado Ruano - 22110125 - Planeador de tareas
+- Luis Manuel Rios Torres - 22110096 - Planeador de tareas
 - Joaquin Ledezma Barragan - 22110063 - Planeador de tareas
