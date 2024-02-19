@@ -1,16 +1,32 @@
 # Lista-Proyectos-5P
 Lista de Proyectos 5P
+- Lia Sanchez  22110129  - Planeador de Tareas
+- Axel David Flores Bajonero - 221101122 - ListaMyanimelist 
 - Andrea Jimenez - 22110126 - Planeador de Tareas 
 - Eduardo Cotero - 22110115 - Punto de venta
 - Adrian Alejandro Montes Mendoza - 22110135 - Punto de Venta
-- Josue Bonilla Cardenas - 22110106 - Lista de peliculas
+- Ivan Ramirez - 22110100 - Punto de venta
 - Héctor Isaí Vargas de la Torre - 22110054 - Listado de peliculas
+- Hector Antonio Valle Garcia-22110141-Listado
 - Galilea Naomi Martinez Torres - 22110055 - My movie list 
+- José David Rangel Valdez - 22110098 - Planeador de Tareas
+- Óscar Alejandro Macías Castillo - 22110114 - Listado de Películas
+- Joshua David Salcedo Monroy - 22110109 - Punto de venta  
+- Luis Mendoza - 22110102 - Listado de peliculas
+- Josue Bonilla Cardenas - 22110106 - Lista de peliculas
+- Soto Arreola Diego Ivan -22110111- Punto de venta
+- Galilea Naomi Martinez Torres - 22110055 - My movie list 
+- Marco Becerra - 22110085 - Listado de Anime
 - Francisco Herrera - 22110123 - Pokedex
+- Fabian Talavera - 22110092 - Listamyanimelist
+- Paola Guadalupe Pérez Ramírez - 22110143 - Planeador de Tareas
 - Angel Emanuel Mendoza Reyes - 22110083 - Pokedex
+- Francisco Neri - 22110103 - My Anime List
 - Noé Francisco Ibarra Hernández - 22110059 - Listado de películas
 - Ramirez Pulido Yahir Emmanuel- -22110137  -lista de peliculas-
 - Jesus Alejandro Lopez Rosales - 22110104 - Punto de venta
 - Guillermo Ávila - 22110067 - MyPlaylist
+- Miguel Angel Ventura Sanchez - 22110120 - Lista de peliculas
 - Cristopher Emanuel Campos Cerda - Pokedex
 - José Manuel Calam Manzanilla - 22110064 - Listado de albumes 
+- Pedro Yazael Mercado Ruano - 22110125 - Planeador de tareas
