@@ -3,6 +3,7 @@ Lista de Proyectos 5P
 - Andrea Jimenez - 22110126 - Planeador de Tareas 
 - Eduardo Cotero - 22110115 - Punto de venta
 - Adrian Alejandro Montes Mendoza - 22110135 - Punto de Venta
+- Luis Mendoza - 22110102 - Listado de peliculas
 - Josue Bonilla Cardenas - 22110106 - Lista de peliculas
 - Héctor Isaí Vargas de la Torre - 22110054 - Listado de peliculas
 - Galilea Naomi Martinez Torres - 22110055 - My movie list 
