@@ -4,13 +4,13 @@ Lista de Proyectos 5P
 - Eduardo Cotero - 22110115 - Punto de venta
 - Adrian Alejandro Montes Mendoza - 22110135 - Punto de Venta
 - Héctor Isaí Vargas de la Torre - 22110054 - Listado de peliculas
+- Hector Antonio Valle Garcia-22110141-Listado
 - Galilea Naomi Martinez Torres - 22110055 - My movie list 
 - José David Rangel Valdez - 22110098 - Planeador de Tareas
 - Óscar Alejandro Macías Castillo - 22110114 - Listado de Películas
 - Joshua David Salcedo Monroy - 22110109 - Punto de venta  
 - Luis Mendoza - 22110102 - Listado de peliculas
 - Josue Bonilla Cardenas - 22110106 - Lista de peliculas
-- Héctor Isaí Vargas de la Torre - 22110054 - Listado de peliculas
 - Soto Arreola Diego Ivan -22110111- Punto de venta
 - Galilea Naomi Martinez Torres - 22110055 - My movie list 
 - Marco Becerra - 22110085 - Listado de Anime
