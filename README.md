@@ -7,6 +7,7 @@ Lista de Proyectos 5P
 - Luis Mendoza - 22110102 - Listado de peliculas
 - Josue Bonilla Cardenas - 22110106 - Lista de peliculas
 - Héctor Isaí Vargas de la Torre - 22110054 - Listado de peliculas
+- Soto Arreola Diego Ivan -22110111- Punto de venta
 - Galilea Naomi Martinez Torres - 22110055 - My movie list 
 - Marco Becerra - 22110085 - Listado de Anime
 - Francisco Herrera - 22110123 - Pokedex
