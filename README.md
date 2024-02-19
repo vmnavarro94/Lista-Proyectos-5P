@@ -12,6 +12,7 @@ Lista de Proyectos 5P
 - Fabian Talavera - 22110092 - Listamyanimelist
 - Paola Guadalupe Pérez Ramírez - 22110143 - Planeador de Tareas
 - Angel Emanuel Mendoza Reyes - 22110083 - Pokedex
+- Francisco Neri - 22110103 - My Anime List
 - Noé Francisco Ibarra Hernández - 22110059 - Listado de películas
 - Ramirez Pulido Yahir Emmanuel- -22110137  -lista de peliculas-
 - Jesus Alejandro Lopez Rosales - 22110104 - Punto de venta
