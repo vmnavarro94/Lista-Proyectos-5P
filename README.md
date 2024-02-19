@@ -8,6 +8,7 @@ Lista de Proyectos 5P
 - Josue Bonilla Cardenas - 22110106 - Lista de peliculas
 - Héctor Isaí Vargas de la Torre - 22110054 - Listado de peliculas
 - Galilea Naomi Martinez Torres - 22110055 - My movie list 
+- Marco Becerra - 22110085 - Listado de Anime
 - Francisco Herrera - 22110123 - Pokedex
 - Fabian Talavera - 22110092 - Listamyanimelist
 - Paola Guadalupe Pérez Ramírez - 22110143 - Planeador de Tareas
