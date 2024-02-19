@@ -1,5 +1,6 @@
 # Lista-Proyectos-5P
 Lista de Proyectos 5P
+- Axel David Flores Bajonero - 221101122 - ListaMyanimelist 
 - Andrea Jimenez - 22110126 - Planeador de Tareas 
 - Eduardo Cotero - 22110115 - Punto de venta
 - Adrian Alejandro Montes Mendoza - 22110135 - Punto de Venta
