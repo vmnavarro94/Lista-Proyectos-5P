@@ -21,3 +21,4 @@ Lista de Proyectos 5P
 - Guillermo Ávila - 22110067 - MyPlaylist
 - Miguel Angel Ventura Sanchez - 22110120 - Lista de peliculas
 - Cristopher Emanuel Campos Cerda - Pokedex
+- Pedro Yazael Mercado Ruano - 22110125 - Planeador de tareas
