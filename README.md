@@ -9,6 +9,7 @@ Lista de Proyectos 5P
 - Héctor Isaí Vargas de la Torre - 22110054 - Listado de peliculas
 - Galilea Naomi Martinez Torres - 22110055 - My movie list 
 - Francisco Herrera - 22110123 - Pokedex
+- Paola Guadalupe Pérez Ramírez - 22110143 - Planeador de Tareas
 - Angel Emanuel Mendoza Reyes - 22110083 - Pokedex
 - Noé Francisco Ibarra Hernández - 22110059 - Listado de películas
 - Ramirez Pulido Yahir Emmanuel- -22110137  -lista de peliculas-
