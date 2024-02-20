@@ -27,7 +27,7 @@ Lista de Proyectos 5P
 - Jesus Alejandro Lopez Rosales - 22110104 - Punto de venta
 - Guillermo Ávila - 22110067 - MyPlaylist
 - Miguel Angel Ventura Sanchez - 22110120 - Lista de peliculas
-- Cristopher Emanuel Campos Cerda - Pokedex
+- Cristopher Emanuel Campos Cerda - 22110099 - Pokedex
 - José Manuel Calam Manzanilla - 22110064 - Listado de albumes 
 - Pedro Yazael Mercado Ruano - 22110125 - Planeador de tareas
 - Luis Manuel Rios Torres - 22110096 - Planeador de tareas
